@@ -1,0 +1,37 @@
+_repo: Unter-Palmen-und-Buchen.-Erster-Band.Unter-Buchen.-Gesammelte-Erz-hlungen._44239
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44239-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstaecker, Frederick
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstacker, Friedrich
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2013-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44239'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcsh 'German fiction -- 19th century'
+- !lcc 'PT'
+tableOfContents: Eine alltägliche Geschichte -- Die Vision -- Folgen einer telegraphischen
+  Depesche -- Der Polizeiagent -- Eine Heimkehr aus der weiten Welt -- Wenn wir einmal
+  sterben.
+title: 'Unter Palmen und Buchen. Erster Band.
+
+  Unter Buchen. Gesammelte Erzählungen.'
+url: http://www.gutenberg.org/ebooks/44239
